@@ -1,0 +1,18 @@
+{
+    "name": "Gold",
+    "rootNamespace": "Gold",
+    "references": [
+        "GUID:769e9cbc8cc47de4ca5ea29b2e8ec8d0",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
